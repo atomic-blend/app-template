@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2025-10-29
+#### Bug Fixes
+- add cicd rc + update shared package - (d041920) - Brandon Guigo
+#### Features
+- support stripe - (4d32683) - Brandon Guigo
+#### Miscellaneous Chores
+- **(release)** 0.1.6 [skip ci] - (8348829) - GitHub Actions
+- add test on main pr too - (d107cb6) - Brandon Guigo
+
+- - -
+
 ## 0.1.6 - 2025-10-21
 #### Bug Fixes
 - docker image and windows build issues - (e0d86d2) - Brandon Guigo
