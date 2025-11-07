@@ -22,7 +22,6 @@ final GlobalKey<NavigatorState> appLayoutNavigatorKey =
     TypedGoRoute<Page2>(path: '/page3', name: "page3"),
     TypedGoRoute<Page3>(path: '/page4', name: "page4"),
     TypedGoRoute<AccountRoute>(path: '/account', name: "account"),
-    TypedGoRoute<SettingsRoute>(path: '/settings', name: "settings"),
   ],
 )
 class AppRouter extends ShellRouteData {
