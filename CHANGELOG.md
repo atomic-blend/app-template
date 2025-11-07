@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.1 - 2025-11-07
+#### Bug Fixes
+- ability to manage subscription via stripe customer portal - (371409f) - Brandon Guigo
+#### Miscellaneous Chores
+- **(release)** 0.2.0 [skip ci] - (9143491) - GitHub Actions
+- disable push [skip ci] - (6c28192) - Brandon Guigo
+
+- - -
+
 ## 0.2.0 - 2025-10-29
 #### Bug Fixes
 - add cicd rc + update shared package - (d041920) - Brandon Guigo
