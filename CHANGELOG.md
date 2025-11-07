@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.2 - 2025-11-07
+#### Bug Fixes
+- merge account and settings into a single page - (44d6045) - Brandon Guigo
+#### Miscellaneous Chores
+- **(release)** 0.2.1 [skip ci] - (a28365d) - GitHub Actions
+- update shared to latest - (7be8950) - Brandon Guigo
+- rebuild router - (9993659) - Brandon Guigo
+
+- - -
+
 ## 0.2.1 - 2025-11-07
 #### Bug Fixes
 - ability to manage subscription via stripe customer portal - (371409f) - Brandon Guigo
